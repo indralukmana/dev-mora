@@ -1,0 +1,29 @@
+requirement:
+
+Student.
+id 			=> 
+name 		=> varchar(255)
+address		=> varchar(255)
+Email		=> varchar(30)
+
+Families.
+family_name 	=> varchar(255)
+family_status	=> varchar(15) 
+family_adress	=> varchar(255)
+family_lasteducation => varchar(255)
+family_salary	int
+
+Universities
+id 					
+university_name		=> varchar(255)
+
+Majorities
+id
+id_university		=> varchar(255)
+majority_name 		=> varchar(255)
+
+-----
+create registration form
+list applicant
+edit applicant
+delete applicant

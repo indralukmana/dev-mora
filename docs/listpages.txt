@@ -1,0 +1,14 @@
+Applicant
+- biodata
+- family
+- pesantren
+- sekolah
+- pilihan university
+- nilai raport
+- upload documents
+
+admin
+- list peserta per provinsi
+- list perserta per universitas
+- search students
+- 

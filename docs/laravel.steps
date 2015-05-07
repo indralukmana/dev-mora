@@ -1,0 +1,8 @@
+setup
+-----
+
+Install laravel
+composer global require "laravel/installer=~1.1"
+
+if any problem create new project, that might you need to change the folder owner:
+sudo chown <user-name> /var/www/html
